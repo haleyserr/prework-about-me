@@ -1,0 +1,22 @@
+h1 {text-align: center;}
+h2 {text-align: center;
+    color: purple;
+    font-weight: lighter}
+p.red {color: red;}
+p.blue {color: blue;}
+p.green {color: green;}
+p.orange {color: orange}
+p.center {text-align: center;}
+p.smalltext {font-size: 25%;}
+p.bigtext {font-size: 300%;}
+p.fancyfont {font-family: cursive;}
+p.bold {font-weight: bold;}
+p.bob {font-size: 300%;
+       color: orange;
+       font-weight: bold;}
+p.styledFont {color: olive;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-align: right;}
+#styledImage {border: orchid;
+    border-width: thick;
+    border-style: dotted;}
